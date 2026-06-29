@@ -26,7 +26,7 @@ Each lab contains:
 | Lab 01 – Deploy Linux VM | ✅ Completed |
 | Lab 02 – Azure Networking | ✅ Completed |
 | Lab 03 – Azure Storage | ✅ Completed |
-| Lab 04 – RBAC | 🟡 In Progress |
+| Lab 04 – RBAC | ✅ Completed |
 | Lab 05 – VM Management | ⏳ Planned |
 | Lab 06 – Monitoring | ⏳ Planned |
 | Lab 07 – Backup | ⏳ Planned |
