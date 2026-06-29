@@ -10,7 +10,7 @@ The objective is to understand the Azure infrastructure created during deploymen
 
 ## Objectives
 
-* Deploy an Ubuntu Linux VM in Microsoft Azure
+* Deploy an Ubuntu Linux Virtual Machine
 * Understand the Azure resources created during deployment
 * Configure secure SSH authentication
 * Connect to the VM from macOS
@@ -28,13 +28,12 @@ The objective is to understand the Azure infrastructure created during deploymen
 * Network Security Group (NSG)
 * SSH (Ed25519)
 * macOS Terminal
-* Git & GitHub
+* Git
+* GitHub
 
 ---
 
 ## Azure Resources
-
-The deployment includes the following Azure resources:
 
 * Resource Group
 * Virtual Machine
@@ -48,64 +47,52 @@ The deployment includes the following Azure resources:
 
 ---
 
-## Screenshots
-
-| Screenshot                     | Description                          |
-| ------------------------------ | ------------------------------------ |
-| 01-resource-group-overview.png | Resource Group overview              |
-| 02-vm-overview.png             | Virtual Machine overview             |
-| 03-vm-networking.png           | Networking configuration             |
-| 04-nsg-ssh-rule.png            | SSH inbound rule (Port 22)           |
-| 05-ssh-login.png               | Successful SSH connection from macOS |
-
----
-
-## Files
-
-```text
-Lab-01-Deploy-Linux-VM/
-├── README.md
-├── notes.md
-└── screenshots/
-    ├── 01-resource-group-overview.png
-    ├── 02-vm-overview.png
-    ├── 03-vm-networking.png
-    ├── 04-nsg-ssh-rule.png
-    └── 05-ssh-login.png
-```
-
----
-
 ## Skills Practiced
 
 * Azure Virtual Machines
-* Azure Networking
-* SSH Authentication
+* Azure Resource Groups
+* Azure Virtual Networks
+* Azure Network Security Groups
+* SSH Authentication (Ed25519)
 * Linux Administration
-* Terminal Commands
-* Azure Resource Management
+* Linux File System Navigation
+* macOS Terminal
 * Git Version Control
+* GitHub Repository Management
+* Azure Portal Navigation
+
+---
+
+## Screenshots
+
+| Screenshot                          | Description                          |
+| ----------------------------------- | ------------------------------------ |
+| 01-resource-group-overview.png      | Resource Group overview              |
+| 02-vm-overview.png                  | Virtual Machine overview             |
+| 03-vm-networking.png                | Networking configuration             |
+| 04-nsg-ssh-rule.png                 | SSH inbound rule (TCP Port 22)       |
+| 05-successful-ssh-login.png         | Successful SSH connection            |
+| 06-basic-linux-commands.png         | Basic Linux commands                 |
+| 07-home-directory-and-ssh-files.png | Home directory and SSH configuration |
+| 08-linux-root-directory.png         | Linux root directory structure       |
 
 ---
 
 ## Status
 
-**Completed**
+🟢 Completed
 
-✔ Ubuntu VM deployed
-
-✔ Azure resources created
-
-✔ SSH authentication configured
-
-✔ Successful SSH connection
-
-✔ Basic Linux commands executed
-
-✔ Project documented
+* Ubuntu VM deployed successfully
+* Azure resources created
+* SSH authentication configured
+* Successful SSH connection established
+* Basic Linux administration completed
+* Documentation completed
 
 ---
 
 ## Next Lab
 
 **Lab 02 – Azure Networking**
+
+
