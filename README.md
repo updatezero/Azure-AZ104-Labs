@@ -15,8 +15,9 @@ Each lab contains:
 - Documentation
 - Screenshots
 - Personal notes
+- Azure CLI commands
 - Git version history
-
+≈
 ---
 
 ## Lab Progress
@@ -32,8 +33,8 @@ Each lab contains:
 | Lab 07 – Backup | ✅ Completed |
 | Lab 08 – Load Balancer | ✅ Completed |
 | Lab 09 – Bastion | ✅ Completed |
-| Lab 10 – Azure CLI | ⏳ In progress |
-| Lab 11 – Bicep | ⏳ Planned |
+| Lab 10 – Azure CLI | ✅ Completed |
+| Lab 11 – Bicep | ⏳ In progress |
 | Lab 12 – Troubleshooting | ⏳ Planned |
 | Final Project | ⏳ Planned |
 
@@ -49,6 +50,7 @@ Each lab contains:
 - Azure Monitor
 - Azure Backup
 - Azure Bastion
+- Azure Cloud Shell
 - Azure CLI
 - Bicep
 - Linux
@@ -85,12 +87,18 @@ Throughout this project I practice:
 
 - Azure Administration
 - Azure Infrastructure
-- Virtual Machines
-- Virtual Networks
-- Storage Accounts
-- Identity and Access Management
-- Monitoring
-- Backup and Recovery
+- Azure Resource Groups
+- Azure Virtual Machines
+- Azure Virtual Networks
+- Azure Load Balancer
+- Azure Bastion
+- Azure Storage Accounts
+- Azure RBAC
+- Azure Monitor
+- Azure Backup and Recovery
+- Azure Cloud Shell
+- Azure CLI
+- Azure Resource Management
 - Infrastructure as Code
 - Linux Administration
 - Git Version Control
@@ -99,6 +107,8 @@ Throughout this project I practice:
 
 ## Certification
 
-This repository supports my preparation for the Microsoft Certified:
+This repository documents my hands-on preparation for the Microsoft Certified:
 
 **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+
+The objective is to gain practical experience with Azure services, administration, networking, storage, security, monitoring, automation, and infrastructure management through real-world lab exercises.
