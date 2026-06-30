@@ -31,8 +31,8 @@ Each lab contains:
 | Lab 06 – Monitoring | ✅ Completed |
 | Lab 07 – Backup | ✅ Completed |
 | Lab 08 – Load Balancer | ✅ Completed |
-| Lab 09 – Bastion | ⏳ In progress |
-| Lab 10 – Azure CLI | ⏳ Planned |
+| Lab 09 – Bastion | ✅ Completed |
+| Lab 10 – Azure CLI | ⏳ In progress |
 | Lab 11 – Bicep | ⏳ Planned |
 | Lab 12 – Troubleshooting | ⏳ Planned |
 | Final Project | ⏳ Planned |
