@@ -34,8 +34,8 @@ Each lab contains:
 | Lab 08 – Load Balancer | ✅ Completed |
 | Lab 09 – Bastion | ✅ Completed |
 | Lab 10 – Azure CLI | ✅ Completed |
-| Lab 11 – Bicep | ⏳ In progress |
-| Lab 12 – Troubleshooting | ⏳ Planned |
+| Lab 11 – Bicep | ✅ Completed |
+| Lab 12 – Troubleshooting | ⏳ In progress |
 | Final Project | ⏳ Planned |
 
 ---
