@@ -29,9 +29,9 @@ Each lab contains:
 | Lab 04 – RBAC | ✅ Completed |
 | Lab 05 – VM Management | ✅ Completed |
 | Lab 06 – Monitoring | ✅ Completed |
-| Lab 07 – Backup | ⏳ In progress |
-| Lab 08 – Load Balancer | ⏳ Planned |
-| Lab 09 – Bastion | ⏳ Planned |
+| Lab 07 – Backup | ✅ Completed |
+| Lab 08 – Load Balancer | ✅ Completed |
+| Lab 09 – Bastion | ⏳ In progress |
 | Lab 10 – Azure CLI | ⏳ Planned |
 | Lab 11 – Bicep | ⏳ Planned |
 | Lab 12 – Troubleshooting | ⏳ Planned |
