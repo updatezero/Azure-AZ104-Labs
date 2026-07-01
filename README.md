@@ -1,23 +1,26 @@
 # Azure AZ-104 Labs
 
-Hands-on Microsoft Azure Administrator (AZ-104) labs documenting my practical experience while preparing for the Microsoft Azure Administrator Associate certification.
+Hands-on Microsoft Azure Administrator (AZ-104) lab environment documenting my practical experience while preparing for the **Microsoft Certified: Azure Administrator Associate (AZ-104)** certification.
+
+This repository contains practical Azure administration labs covering compute, networking, storage, identity, security, monitoring, automation, and infrastructure management.
 
 ---
 
-## Project Goal
+## Project Objective
 
-The purpose of this repository is to build real-world Azure administration skills through hands-on labs and practical projects.
+The primary goal of this repository is to strengthen my Azure administration skills through hands-on practice rather than theory alone.
 
-Each lab contains:
+Each lab focuses on a specific Azure service or administration task and includes:
 
-- Practical Azure implementation
-- Architecture overview
-- Documentation
+- Practical Azure implementations
+- Step-by-step documentation
+- Architecture overviews
 - Screenshots
-- Personal notes
+- Personal notes and lessons learned
 - Azure CLI commands
+- Troubleshooting scenarios
 - Git version history
-≈
+
 ---
 
 ## Lab Progress
@@ -35,25 +38,27 @@ Each lab contains:
 | Lab 09 – Bastion | ✅ Completed |
 | Lab 10 – Azure CLI | ✅ Completed |
 | Lab 11 – Bicep | ✅ Completed |
-| Lab 12 – Troubleshooting | ⏳ In progress |
-| Final Project | ⏳ Planned |
+| Lab 12 – Troubleshooting | ✅ Completed |
+| Final Project | ✅ Completed |
 
 ---
 
 ## Technologies
 
 - Microsoft Azure
+- Azure Resource Groups
 - Azure Virtual Machines
-- Azure Networking
-- Azure Storage
-- Azure RBAC
+- Azure Virtual Networks
+- Azure Network Security Groups (NSG)
+- Azure Storage Accounts
+- Azure Load Balancer
+- Azure Bastion
 - Azure Monitor
 - Azure Backup
-- Azure Bastion
 - Azure Cloud Shell
 - Azure CLI
 - Bicep
-- Linux
+- Ubuntu Linux
 - Git
 - GitHub
 
@@ -81,34 +86,59 @@ Azure-AZ104-Labs/
 
 ---
 
-## Skills
+## Skills Demonstrated
 
-Throughout this project I practice:
+Throughout these labs I gained practical experience with:
 
 - Azure Administration
 - Azure Infrastructure
 - Azure Resource Groups
 - Azure Virtual Machines
-- Azure Virtual Networks
-- Azure Load Balancer
-- Azure Bastion
-- Azure Storage Accounts
-- Azure RBAC
-- Azure Monitor
+- Azure Virtual Networking
+- Azure Network Security Groups
+- Azure Storage
+- Azure Identity and Access Management (RBAC)
+- Azure Monitoring
 - Azure Backup and Recovery
-- Azure Cloud Shell
+- Azure Load Balancing
+- Azure Bastion
 - Azure CLI
-- Azure Resource Management
-- Infrastructure as Code
-- Linux Administration
+- Infrastructure as Code (Bicep)
+- Linux Server Administration
+- SSH Connectivity
+- Web Server Deployment (Nginx)
 - Git Version Control
+
+---
+
+## Final Project
+
+The Final Project combines multiple AZ-104 concepts into a complete Azure deployment.
+
+Key components include:
+
+- Custom Virtual Network
+- Frontend, Backend and Bastion Subnets
+- Network Security Group (NSG)
+- Ubuntu Linux Virtual Machine
+- SSH Remote Administration
+- Nginx Web Server Deployment
+- HTTP Connectivity Validation
+
+This project demonstrates how multiple Azure services work together to deploy and manage a functional cloud infrastructure.
 
 ---
 
 ## Certification
 
-This repository documents my hands-on preparation for the Microsoft Certified:
+This repository documents my practical preparation for the:
 
 **Microsoft Certified: Azure Administrator Associate (AZ-104)**
 
-The objective is to gain practical experience with Azure services, administration, networking, storage, security, monitoring, automation, and infrastructure management through real-world lab exercises.
+The objective is to build real-world Azure administration skills by deploying, configuring, securing, monitoring, troubleshooting, and managing Azure resources through hands-on lab exercises.
+
+---
+
+## About
+
+This repository is continuously updated as I expand my Azure knowledge and complete additional hands-on projects while preparing for the AZ-104 certification.
